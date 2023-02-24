@@ -1,0 +1,5 @@
+La aplicación simplemente tiene que permitir al cliente añadir una nueva ciudad a la lista de ciudades recomendadas. Para ello se pide la ruta de una imagen (url de internet) y el nombre de la ciudad. Y al pulsar el botón insertar, se visualice la imagen y el nombre de la ciudad como en el diseño.
+
+
+Las ciudades se almacenan en un array en el store, puede ser en el state del propio vuex o en un modulo, para quien quiera practicar la creación de módulos y mapear. El diseño tiene que quedar tal cual, ya que son 3 puntos del examen.
+
